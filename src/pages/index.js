@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <title>Snipcart Store</title>
+        <title>Aircrft Store</title>
       </Head>
       <Container className={styles.homeContainer}>
         <div className={styles.grid}>
